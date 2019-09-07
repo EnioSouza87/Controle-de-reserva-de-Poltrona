@@ -1,0 +1,11 @@
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\bin\Debug\netcoreapp2.1\Controle de Poltronas.deps.json
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\bin\Debug\netcoreapp2.1\Controle de Poltronas.runtimeconfig.json
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\bin\Debug\netcoreapp2.1\Controle de Poltronas.runtimeconfig.dev.json
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\bin\Debug\netcoreapp2.1\Controle de Poltronas.dll
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\bin\Debug\netcoreapp2.1\Controle de Poltronas.pdb
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.csprojAssemblyReference.cache
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.csproj.CoreCompileInputs.cache
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.AssemblyInfoInputs.cache
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.AssemblyInfo.cs
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.dll
+C:\Users\Enio\Desktop\SISTEMA DE CONTROLE DE POLTRONAS\Controle de Poltronas\Controle de Poltronas\obj\Debug\netcoreapp2.1\Controle de Poltronas.pdb
